@@ -1,0 +1,80 @@
+[
+    {
+      "precio": "590,000.00",
+      "id": 1,
+      "title": "New",
+      "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/1.jpg"
+    },
+    {
+      "precio": "645,000.00",
+      "id": 2,
+      "title": "Capa",
+      "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/2.jpg"
+    },
+    {
+      "precio": "800,000.00",
+      "id": 3,
+      "title": "Long Air",
+      "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/3.jpg"
+    },
+    {
+      "precio": "545,000.00",
+      "id": 4,
+      "title": "Rapid Duster",
+      "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/4.jpg"
+    },
+    {
+      "precio": "635,000.00",
+      "id": 5,
+      "title": "Soft Soon",
+      "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/5.jpg"
+    },
+    {
+      "precio": "425,000.00",
+      "id": 6,
+      "title": "Natura lt",
+      "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/6.jpg"
+    },
+    {
+        "precio": "400,000.00",
+        "id": 7,
+        "title": "Rush Big",
+        "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/7.jpg"
+      },
+      {
+        "precio": "615,000.00",
+        "id": 8,
+        "title": "Gold Summer",
+        "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/8.jpg"
+      },
+      {
+        "precio": "825,000.00",
+        "id": 9,
+        "title": "New Dodge",
+        "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/9.jpg"
+      }, 
+      {
+        "precio": "660,000.00",
+        "id": 10,
+        "title": "Speed Nt",
+        "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/10.jpg"
+      },
+      {
+        "precio": "535,000.00",
+        "id": 11,
+        "title": "Park Md",
+        "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/11.jpg"
+      },
+      {
+        "precio": "725,000.00",
+        "id": 12,
+        "title": "Enterprise",
+        "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/12.jpg"
+      },   
+      {
+        "precio": "725,000.00",
+        "id": 13,
+        "title": "Enterprise",
+        "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/13.jpg"
+      }   
+  ]
